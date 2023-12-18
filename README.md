@@ -1,11 +1,11 @@
 # KiKi API
 
-![Alt text](chibigirl.png)
+This is a Dummy app for Lab/Demo purpose
 
-This is a Dummy app for Lab purpose
+![Alt text](assets/chibigirl.png)
 
 ## Output
-![Alt text](image.png)
+![Alt text](assets/image.png)
 
 ## Deploy to GCP Cloud Run
 1. Create a Workload Identity Federation pool
